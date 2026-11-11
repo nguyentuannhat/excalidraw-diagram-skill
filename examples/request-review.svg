@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="510" viewBox="0 0 1520 510" role="img" aria-label="Luồng xử lý yêu cầu">
+<rect width="1520" height="510" fill="white"/>
+<g stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 473 121 L 544 121 M 532.3513175321682 126.77132539055175 L 544 121 L 532.3513175321682 115.22867460944825" fill="none" stroke="#1971c2"/>
+<path d="M 973 121 L 1044 121 M 1032.3513175321682 126.77132539055175 L 1044 121 L 1032.3513175321682 115.22867460944825" fill="none" stroke="#1971c2"/>
+<path d="M 260 219 L 260 254 M 254.22867460944823 242.35131753216817 L 260 254 L 265.77132539055174 242.35131753216817" fill="none" stroke="#343a40"/>
+<path d="M 260 351 L 260 389 M 254.22867460944823 377.3513175321682 L 260 389 L 265.77132539055174 377.3513175321682" fill="none" stroke="#c92a2a"/>
+<path d="M 760 219 L 760 254 M 754.2286746094483 242.35131753216817 L 760 254 L 765.7713253905517 242.35131753216817" fill="none" stroke="#343a40"/>
+<path d="M 760 351 L 760 389 M 754.2286746094483 377.3513175321682 L 760 389 L 765.7713253905517 377.3513175321682" fill="none" stroke="#c92a2a"/>
+<path d="M 1260 219 L 1260 254 M 1254.2286746094483 242.35131753216817 L 1260 254 L 1265.7713253905517 242.35131753216817" fill="none" stroke="#343a40"/>
+<path d="M 1260 351 L 1260.0 364.2 Q 1260 373 1251.0 373.0 L 1164.0 373.0 Q 1155 373 1155.0 379.4 L 1155 389 M 1149.2286746094483 377.3513175321682 L 1155 389 L 1160.7713253905517 377.3513175321682" fill="none" stroke="#2b8a3e"/>
+<path d="M 1260 373 L 1356.0 373.0 Q 1365 373 1365.0 379.4 L 1365 389 M 1359.2286746094483 377.3513175321682 L 1365 389 L 1370.7713253905517 377.3513175321682" fill="none" stroke="#c92a2a"/>
+<path d="M 81 160 Q 275.6 158 439 160 Q 455 160 455 176 L 455 202 Q 455 218 439 218 Q 267.8 220 81 218 Q 65 218 65 202 L 65 176 Q 65 160 81 160 Z" fill="#d0ebff" stroke="#1971c2"/>
+<path d="M 81 160 Q 275.6 158 439 160 Q 455 160 455 176 L 455 202 Q 455 218 439 218 Q 267.8 220 81 218 Q 65 218 65 202 L 65 176 Q 65 160 81 160 Z" transform="translate(1.2 -1)" fill="none" stroke="#1971c2" opacity=".22"/>
+<path d="M 260.0 255 L 455 302.5 L 260.0 350 L 65 302.5 Z" fill="#fff3bf" stroke="#e67700"/>
+<path d="M 260.0 255 L 455 302.5 L 260.0 350 L 65 302.5 Z" transform="translate(1.2 -1)" fill="none" stroke="#e67700" opacity=".22"/>
+<path d="M 81 390 Q 275.6 388 439 390 Q 455 390 455 406 L 455 432 Q 455 448 439 448 Q 267.8 450 81 448 Q 65 448 65 432 L 65 406 Q 65 390 81 390 Z" fill="#ffe3e3" stroke="#c92a2a"/>
+<path d="M 81 390 Q 275.6 388 439 390 Q 455 390 455 406 L 455 432 Q 455 448 439 448 Q 267.8 450 81 448 Q 65 448 65 432 L 65 406 Q 65 390 81 390 Z" transform="translate(1.2 -1)" fill="none" stroke="#c92a2a" opacity=".22"/>
+<path d="M 581 160 Q 775.6 158 939 160 Q 955 160 955 176 L 955 202 Q 955 218 939 218 Q 767.8 220 581 218 Q 565 218 565 202 L 565 176 Q 565 160 581 160 Z" fill="#d0ebff" stroke="#1971c2"/>
+<path d="M 581 160 Q 775.6 158 939 160 Q 955 160 955 176 L 955 202 Q 955 218 939 218 Q 767.8 220 581 218 Q 565 218 565 202 L 565 176 Q 565 160 581 160 Z" transform="translate(1.2 -1)" fill="none" stroke="#1971c2" opacity=".22"/>
+<path d="M 760.0 255 L 955 302.5 L 760.0 350 L 565 302.5 Z" fill="#fff3bf" stroke="#e67700"/>
+<path d="M 760.0 255 L 955 302.5 L 760.0 350 L 565 302.5 Z" transform="translate(1.2 -1)" fill="none" stroke="#e67700" opacity=".22"/>
+<path d="M 581 390 Q 775.6 388 939 390 Q 955 390 955 406 L 955 432 Q 955 448 939 448 Q 767.8 450 581 448 Q 565 448 565 432 L 565 406 Q 565 390 581 390 Z" fill="#ffe3e3" stroke="#c92a2a"/>
+<path d="M 581 390 Q 775.6 388 939 390 Q 955 390 955 406 L 955 432 Q 955 448 939 448 Q 767.8 450 581 448 Q 565 448 565 432 L 565 406 Q 565 390 581 390 Z" transform="translate(1.2 -1)" fill="none" stroke="#c92a2a" opacity=".22"/>
+<path d="M 1081 160 Q 1275.6 158 1439 160 Q 1455 160 1455 176 L 1455 202 Q 1455 218 1439 218 Q 1267.8 220 1081 218 Q 1065 218 1065 202 L 1065 176 Q 1065 160 1081 160 Z" fill="#d0ebff" stroke="#1971c2"/>
+<path d="M 1081 160 Q 1275.6 158 1439 160 Q 1455 160 1455 176 L 1455 202 Q 1455 218 1439 218 Q 1267.8 220 1081 218 Q 1065 218 1065 202 L 1065 176 Q 1065 160 1081 160 Z" transform="translate(1.2 -1)" fill="none" stroke="#1971c2" opacity=".22"/>
+<path d="M 1260.0 255 L 1455 302.5 L 1260.0 350 L 1065 302.5 Z" fill="#fff3bf" stroke="#e67700"/>
+<path d="M 1260.0 255 L 1455 302.5 L 1260.0 350 L 1065 302.5 Z" transform="translate(1.2 -1)" fill="none" stroke="#e67700" opacity=".22"/>
+<path d="M 1071 390 Q 1163.0 388 1239 390 Q 1255 390 1255 406 L 1255 432 Q 1255 448 1239 448 Q 1159.0 450 1071 448 Q 1055 448 1055 432 L 1055 406 Q 1055 390 1071 390 Z" fill="#d3f9d8" stroke="#2b8a3e"/>
+<path d="M 1071 390 Q 1163.0 388 1239 390 Q 1255 390 1255 406 L 1255 432 Q 1255 448 1239 448 Q 1159.0 450 1071 448 Q 1055 448 1055 432 L 1055 406 Q 1055 390 1071 390 Z" transform="translate(1.2 -1)" fill="none" stroke="#2b8a3e" opacity=".22"/>
+<path d="M 1281 390 Q 1373.0 388 1449 390 Q 1465 390 1465 406 L 1465 432 Q 1465 448 1449 448 Q 1369.0 450 1281 448 Q 1265 448 1265 432 L 1265 406 Q 1265 390 1281 390 Z" fill="#ffe3e3" stroke="#c92a2a"/>
+<path d="M 1281 390 Q 1373.0 388 1449 390 Q 1465 390 1465 406 L 1465 432 Q 1465 448 1449 448 Q 1369.0 450 1281 448 Q 1265 448 1265 432 L 1265 406 Q 1265 390 1281 390 Z" transform="translate(1.2 -1)" fill="none" stroke="#c92a2a" opacity=".22"/>
+</g><g font-family="Chalkboard SE, Comic Sans MS, Arial, sans-serif">
+<text x="760" y="53.04" font-size="36" fill="#243b72" text-anchor="middle">Luồng xử lý yêu cầu</text>
+<text x="260" y="130.03" font-size="27" fill="#243b72" text-anchor="middle">1. Tiếp nhận</text>
+<text x="760" y="130.03" font-size="27" fill="#243b72" text-anchor="middle">2. Xét duyệt</text>
+<text x="1260" y="130.03" font-size="27" fill="#243b72" text-anchor="middle">3. Thông báo</text>
+<text x="260.0" y="194.3" font-size="20" fill="#174e7a" text-anchor="middle">Nhận yêu cầu</text>
+<text x="260.0" y="307.8" font-size="20" fill="#9c5000" text-anchor="middle">Đủ thông tin?</text>
+<rect x="263.8" y="352" width="52.400000000000006" height="20.0" rx="4" fill="white"/>
+<text x="290" y="368.24" font-size="16" fill="#c92a2a" text-anchor="middle">Không</text>
+<text x="260.0" y="424.3" font-size="20" fill="#9b2525" text-anchor="middle">Yêu cầu bổ sung</text>
+<text x="260" y="478.24" font-size="16" fill="#243b72" text-anchor="middle">Đủ thông tin thì chuyển sang xét duyệt.</text>
+<text x="760.0" y="194.3" font-size="20" fill="#174e7a" text-anchor="middle">Kiểm tra điều kiện duyệt</text>
+<text x="760.0" y="307.8" font-size="20" fill="#9c5000" text-anchor="middle">Đáp ứng điều kiện?</text>
+<rect x="763.8" y="352" width="52.400000000000006" height="20.0" rx="4" fill="white"/>
+<text x="790" y="368.24" font-size="16" fill="#c92a2a" text-anchor="middle">Không</text>
+<text x="760.0" y="424.3" font-size="20" fill="#9b2525" text-anchor="middle">Ghi lý do từ chối</text>
+<text x="760" y="478.24" font-size="16" fill="#243b72" text-anchor="middle">Đạt điều kiện thì ghi nhận phê duyệt.</text>
+<text x="1260.0" y="194.3" font-size="20" fill="#174e7a" text-anchor="middle">Gửi kết quả cho người yêu cầu</text>
+<text x="1260.0" y="307.8" font-size="20" fill="#9c5000" text-anchor="middle">Được phê duyệt?</text>
+<rect x="1167.52" y="349" width="26.96" height="20.0" rx="4" fill="white"/>
+<text x="1181" y="365.24" font-size="16" fill="#2b8a3e" text-anchor="middle">Có</text>
+<rect x="1316.8" y="349" width="52.400000000000006" height="20.0" rx="4" fill="white"/>
+<text x="1343" y="365.24" font-size="16" fill="#c92a2a" text-anchor="middle">Không</text>
+<text x="1155.0" y="423.505" font-size="17" fill="#226b30" text-anchor="middle">Báo phê duyệt</text>
+<text x="1365.0" y="423.505" font-size="17" fill="#9b2525" text-anchor="middle">Gửi lý do từ chối</text>
+</g></svg>

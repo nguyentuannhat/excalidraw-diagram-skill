@@ -44,6 +44,10 @@ Ask your coding agent to create a diagram:
 
 The skill handles the rest — concept mapping, layout, JSON generation, rendering, and visual validation.
 
+## Business workflow profile
+
+Ask for a hand-drawn workflow for a product review. The skill groups decisions and outcomes by phase, uses a semantic pastel palette, and can deliver an editable scene with a companion SVG preview. See [the profile](references/business-workflows.md) and [the sample](examples/request-review.svg).
+
 ## Customize Colors
 
 Edit `references/color-palette.md` to match your brand. Everything else in the skill is universal design methodology.

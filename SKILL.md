@@ -9,6 +9,10 @@ Generate `.excalidraw` JSON files that **argue visually**, not just display info
 
 **Setup:** If the user asks you to set up this skill (renderer, dependencies, etc.), see `README.md` for instructions.
 
+## Business workflows for review
+
+For a product or operations review, a hand-drawn business flow, or a diagram based on a supplied business workflow, read [the business workflow profile](references/business-workflows.md) before choosing the layout. Its typography, colors, and shape rules take precedence over the general defaults below. Treat a user-supplied style reference as authoritative.
+
 ## Customization
 
 **All colors and brand-specific styles live in one file:** `references/color-palette.md`. Read it before generating any diagram and use it as the single source of truth for all color choices — shape fills, strokes, text colors, evidence artifact backgrounds, everything.

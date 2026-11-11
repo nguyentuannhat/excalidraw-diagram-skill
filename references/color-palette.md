@@ -65,3 +65,15 @@ Used for code snippets, data examples, and other concrete evidence inside techni
 | Property | Value |
 |----------|-------|
 | Canvas background | `#ffffff` |
+
+## Hand-drawn business workflow profile
+
+| Purpose | Fill | Stroke | Text |
+|---|---|---|---|
+| Action | #d0ebff | #1971c2 | #174e7a |
+| Decision or short rule | #fff3bf | #e67700 | #9c5000 |
+| Detail note | #e3e7fb | #5f71bc | #36478b |
+| Success | #d3f9d8 | #2b8a3e | #226b30 |
+| Exception | #ffe3e3 | #c92a2a | #9b2525 |
+
+Use #243b72 for titles and #343a40 for ordinary arrows and labels. Use the success and exception stroke colors for positive and negative branches.
