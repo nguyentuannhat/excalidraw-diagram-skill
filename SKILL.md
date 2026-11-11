@@ -11,7 +11,7 @@ Generate `.excalidraw` JSON files that **argue visually**, not just display info
 
 ## Business workflows for review
 
-For a product or operations review, a hand-drawn business flow, or a diagram based on a supplied business workflow, read [the business workflow profile](references/business-workflows.md) before choosing the layout. Its typography, colors, and shape rules take precedence over the general defaults below. Treat a user-supplied style reference as authoritative.
+For a product or operations review, a hand-drawn business flow, or a diagram based on a supplied business workflow, read [the business workflow profile](references/business-workflows.md) before choosing the layout. Its typography, colors, and shape rules take precedence over the general defaults below. Treat a user-supplied style reference as authoritative. Keep a single editable scene and provide both Default and Chalkboard SE previews for each requested SVG or PNG format.
 
 ## Customization
 

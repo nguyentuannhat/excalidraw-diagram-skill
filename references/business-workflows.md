@@ -10,6 +10,17 @@ Use this profile for business rules explained to product or operations stakehold
 
 Use the business workflow colors in [color-palette.md](color-palette.md). Use a white canvas, a 2 px stroke, roughness 1 for shapes and arrows, opacity 100, gently rounded connectors, and open arrowheads. Use Excalidraw fontFamily 1 for editable labels.
 
-For a preview with the reference typography, export a companion SVG from the same coordinates. Use the font stack Chalkboard SE, Comic Sans MS, Arial, sans-serif. Use rounded stroke joins and caps and a subtle second outline for hand-drawn edges. SVG text uses the fonts available on the viewer's device. Render the SVG to PNG on a machine with the chosen font when a presentation needs a fixed appearance.
+## Export two previews for comparison
 
-Inspect the preview before delivery. Trace a success case, a fallback, and a manual review case. Check arrow endpoints, branch labels, diamond padding, and accented characters. Inspect the native Excalidraw render separately when delivering both formats because its font can differ from the SVG preview.
+Keep one editable `.excalidraw` scene with live text. Whenever delivering a preview, export both variants in the requested format. If both SVG and PNG are requested, export two of each.
+
+| Variant | Filename | Typography |
+|---|---|---|
+| Default | `<name>-default.svg` or `<name>-default.png` | Preserve the editable scene's native Excalidraw fonts |
+| Chalkboard | `<name>-chalkboard.svg` or `<name>-chalkboard.png` | Use the CSS font stack `"Chalkboard SE", "Comic Sans MS", Arial, sans-serif` |
+
+Export the scene to SVG with the native renderer. Use that SVG as the base for both previews. For the Chalkboard copy, override the font family of diagram text in the SVG. Keep text anchors, positions, sizes, shapes, arrows, palette, and canvas bounds identical so the font is the variable being compared. If either font causes overflow, adjust the shared editable layout and export both again. Keep labels as editable text in the source scene.
+
+For PNG, rasterize both SVG variants at the same scale. Use a device scale factor of 3 for slide-ready previews and wait for fonts to load before taking a screenshot. Run the Chalkboard export on a machine with Chalkboard SE installed. If the font is unavailable, report which fallback was used. SVG text can use a fallback font on another device.
+
+Inspect both previews before delivery. Trace a success case, a fallback, and a manual review case. Check arrow endpoints, branch labels, diamond padding, and accented characters. Label both preview links so the user can choose.

@@ -46,7 +46,7 @@ The skill handles the rest — concept mapping, layout, JSON generation, renderi
 
 ## Business workflow profile
 
-Ask for a hand-drawn workflow for a product review. The skill groups decisions and outcomes by phase, uses a semantic pastel palette, and can deliver an editable scene with a companion SVG preview. See [the profile](references/business-workflows.md) and [the sample](examples/request-review.svg).
+Ask for a hand-drawn workflow for a product review. The skill groups decisions and outcomes by phase, uses a semantic pastel palette, and delivers one editable scene with paired Default and Chalkboard SE previews in each requested SVG or PNG format. See [the profile](references/business-workflows.md) and [the sample](examples/request-review.svg).
 
 ## Customize Colors
 
